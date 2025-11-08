@@ -1,4 +1,4 @@
-# 👋 ¡Hey! Soy Elio 
+# 👋 Hi there! I'm Elio 
 
 <div align="center">
   
@@ -6,19 +6,9 @@
 
 </div>
 
-## 🚀 Sobre mí
-
-Soy un **QA Engineer** apasionado por la automatización de pruebas y la calidad del software. Trabajo en **OpenLoop Health** asegurando la excelencia en cada línea de código que probamos.
-
-- 🔭 Actualmente trabajando en: **OpenLoop Health**
-- 🌱 Especializándome en: **Test Automation, BDD, Performance Testing**
-- 📍 Ubicación: **Lima, Perú**
-- 🌐 Portfolio: [elionavarretev.github.io](https://elionavarretev.github.io/)
-- 🎓 ORCID: [0000-0001-8810-2068](https://orcid.org/0000-0001-8810-2068)
-
 ## 🛠️ Tech Stack
 
-### 💻 Lenguajes de Programación
+### 💻 Programming Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -52,25 +42,7 @@ Soy un **QA Engineer** apasionado por la automatización de pruebas y la calidad
 
 </div>
 
-## 🏆 Proyectos Destacados
-
-### 🎯 [PythonBDD](https://github.com/elionavarretev/PythonBDD)
-Framework de testing BDD en Python para casos de prueba automatizados en Belcorp.
-- **Tech:** Python, BDD, Selenium
-
-### 🎯 [SerenityBDD](https://github.com/elionavarretev/SerenityBDD)
-Implementación de Cucumber con Serenity BDD para pruebas de comportamiento.
-- **Tech:** Java, Cucumber, Serenity
-
-### 🎯 [Demo-playwright](https://github.com/elionavarretev/Demo-playwright)
-Repositorio de aprendizaje y práctica de automatización con Playwright.
-- **Tech:** JavaScript, Playwright
-
-### 🎯 [Postman-to-k6Script](https://github.com/elionavarretev/Postman-to-k6Script)
-Ejemplo de migración de colecciones Postman a scripts k6 para performance testing.
-- **Tech:** JavaScript, Postman, k6
-
-## 🤝 Conecta conmigo
+## 🤝 Connect with Me
 
 <div align="center">
 
@@ -78,14 +50,6 @@ Ejemplo de migración de colecciones Postman a scripts k6 para performance testi
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tu-email@example.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white)](https://elionavarretev.github.io/)
 [![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0000-0001-8810-2068)
-
-</div>
-
-## 📈 Visitor Count
-
-<div align="center">
-  
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=elionavarretev.elionavarretev&left_color=gray&right_color=blue)
 
 </div>
 
