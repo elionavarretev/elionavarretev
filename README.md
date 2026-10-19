@@ -4,7 +4,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=520&lines=Tech+Lead+Manager%2C+QA+%7C+OpenLoop;Author+%7C+University+Professor;Test+Automation+%7C+AI+in+Testing)](https://elionavarrete.com)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=520&lines=Tech+Lead+Manager%2C+QA;Author+%7C+University+Professor;Test+Automation+%7C+AI+in+Testing)](https://elionavarrete.com)
 
 </div>
 
